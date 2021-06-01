@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwkkDQxMQvU68TgV2lmhYgAAAAAACAAAAAAAQZgAAAAEAACAAAACGmyObWSvxKYITuDllrJrikY/b4tCh5eODic5ZqCuHAwAAAAAOgAAAAAIAACAAAAB+8rxwWsxunXDDMZaDtc3m+olLCrHzEFzeYuV3uyvTxIAAAACtJDZXySbM8k3mxQZpL92Uy9n3EdTblCYdeNqa5aesMyVWAELI+qyVFRgcEbynmdS6PWckK4C3PuPxlz+rjTrhHRTs5sim2O8eMZ9XoTWVBOAwK7TeUg/ryRdKEbBf9S0AmAe73jPryVZ29oA2Uy6Zb5gohEaak3a7Vjun7xKzYEAAAAB5YNGuYFd5Z+aL345BMih4gRpHfq2fxcEhYxLICPo78MWDtJA3BbIbsVXgLG9mPCk4+eC9aCSkyC2XAM9cjjYI</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:underwaterbmvb2020.database.windows.net,1433%3bInitial Catalog=UnderwaterDB%3bUser Id=Underwateradmin%40underwaterbmvb2020.database.windows.net%3bPassword=P%40%40sw0rd%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Underwater.Data.UnderwaterContext">
+      <Value>Data Source=tcp:underwaterbmvb2020.database.windows.net,1433%3bInitial Catalog=UnderwaterDB%3bUser Id=Underwateradmin%40underwaterbmvb2020.database.windows.net%3bPassword=P%40%40sw0rd%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

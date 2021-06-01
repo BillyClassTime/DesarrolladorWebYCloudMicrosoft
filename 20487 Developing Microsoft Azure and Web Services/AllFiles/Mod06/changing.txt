@@ -1,0 +1,8 @@
+            app.UseEndpoints(endpoint =>
+            {
+                endpoint.MapControllerRoute(
+                        name: "default",
+                        pattern: "{controller=WeatherForecast}/{action=Get}",
+                        defaults: new { controller = "WeatherForecast", action = "Get" });
+            });
+        }
