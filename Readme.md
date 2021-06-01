@@ -2,15 +2,15 @@
 
 2020 - 2021
 
-## [Module 1. 20480: Programming in HTML5 with JavaScript and CSS3](20487 Developing Microsoft Azure and Web Services)
+## [Module 1. 20480: Programming in HTML5 with JavaScript and CSS3](20480%20Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3)
 
-##  [Module 2. 20483: Programing in C#](20483 Programing in C#)
+##  [Module 2. 20483: Programing in C#](20483%20Programing%20in%20C%23)
 
-##  [Module 3. 20486: Developing ASP.NET Core MVC Web Applications](20486 Developing ASP.NET Core MVC Web Applications)
+##  [Module 3. 20486: Developing ASP.NET Core MVC Web Applications](20486%20Developing%20ASP.NET%20Core%20MVC%20Web%20Applications)
 
 ##  [Module 4. AZ-900: A: Microsoft Azure Fundamentals](https://github.com/LuzTellez/Az-900-Azure-Fundamentals)
 
-##  [Module 5. 20487: Developing Microsoft Azure and Web Services](20487 Developing Microsoft Azure and Web Services)
+##  [Module 5. 20487: Developing Microsoft Azure and Web Services](20487%20Developing%20Microsoft%20Azure%20and%20Web%20Services)
 
 ##  [Module 5. AZ-204: Developing solutions for Microsoft Azure](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure)
 
